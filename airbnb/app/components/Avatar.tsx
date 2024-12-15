@@ -6,7 +6,7 @@ const Avatar = () => {
 
     return ( 
         <Image
-        rounded-full
+        rounded-full="true"
         height="30"
         width="30"
         alt="Avatar"
